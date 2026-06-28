@@ -1,169 +1,234 @@
-<h1 align="center">Hi 👋, I'm Moksh</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Moksh%20Goel&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+
+<h1 align="center">
+Hey 👋 I'm Moksh
+</h1>
 
 <h3 align="center">
-Aspiring AI/Software Developer | Building Projects & Learning Every Day 🚀
+Aspiring AI / Software Developer 🚀
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Future+Engineer;Python+%7C+Java+Learner;Building+Real+Projects;Exploring+AI+%26+Development&center=true&width=550&height=50">
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 Preparing for my engineering journey  
-💻 Learning **Python, Java & Software Development**  
-🚀 Building projects to understand how real applications work  
-🧠 Interested in **AI, automation, and clean UI design**  
-
-> "Small projects today become big skills tomorrow."
-
----
-
-## ⚡ My Developer Journey
-
-```
-Learning
-   ↓
-Building
-   ↓
-Breaking things
-   ↓
-Fixing them
-   ↓
-Improving 🚀
-```
-
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,flask,git,github,vscode" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+Projects;Learning+Python+%26+Java;Exploring+AI+%26+Technology;Turning+Ideas+Into+Code&center=true&width=550&height=50">
 
 </p>
 
+
 ---
 
-## 🚀 Featured Projects
+## 🧠 About Me
 
-### 🖤 BLACKBOX
 
-A personal digital archive system built with Flask.
+```yaml
+name: Moksh Goel
+role: Student Developer
+focus:
+  - Software Development
+  - Artificial Intelligence
+  - Problem Solving
+
+currently:
+  - Learning Python
+  - Learning Java
+  - Building real projects
+
+mindset:
+  "Build. Break. Learn. Improve."
+```
+
+
+---
+
+# ⚡ Tech Arsenal
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,flask,git,github,vscode"/>
+
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🖤 BLACKBOX
+
+Personal digital archive system.
 
 Features:
+
 - 🔐 Admin authentication
-- 📂 Upload system
-- 🖼️ Image archive
-- ✏️ Edit & delete controls
+- 📂 Image management
 - 📝 Anonymous submissions
-- 🎨 Custom dashboard UI
+- ☁ Cloud storage
+- 🎨 Custom dashboard
 
 Tech:
-`Python` `Flask` `SQLite` `Cloudinary`
 
----
+`Python` `Flask` `SQLite`
 
-### ⚡ One-Line
 
-A minimal productivity-focused project.
+</td>
+
+
+<td width="50%">
+
+
+## ⚡ One-Line
+
+A minimal productivity project.
 
 Features:
+
 - Clean interface
-- Simple user interaction
 - Lightweight design
+- Simple workflow
 
 Tech:
+
 `HTML` `CSS` `JavaScript`
 
----
 
-### 🔢 Calculator App
+</td>
 
-My first programming project.
+</tr>
 
-Built while learning:
-- Variables
-- Conditions
-- User input
-- Logic building
+</table>
 
-Tech:
-`Python`
 
 ---
 
-### 📋 To-Do List App
+# 📚 Learning Projects
 
-A beginner project that introduced:
-- Data storage
-- Loops
-- CRUD concepts
 
-Tech:
-`Python`
+| Project | Purpose |
+|---|---|
+| 🔢 Calculator | Logic building & fundamentals |
+| 📋 To-Do List | CRUD concepts |
+| 🎯 Number Guessing Game | Programming practice |
+
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Moksh-dev&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh-dev&theme=tokyonight" />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Moksh-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="180"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh-dev&theme=tokyonight&hide_border=true"/>
+
 
 </p>
 
----
 
-## 🎯 2026 Goals
-
-- 🚀 Build more real-world applications
-- 🤖 Explore AI & Machine Learning
-- 🧩 Improve Data Structures & Algorithms
-- 🌐 Create a personal portfolio
-- 📚 Become a better software developer
 
 ---
 
-## 📈 Currently Learning
+# 🏆 Achievements
 
-```
-Python        ████████░░
-Java          ██████░░░░
-Git/GitHub    ███████░░░
-AI/ML         ████░░░░░░
-```
-
----
-
-## 🤝 Connect With Me
 
 <p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Moksh-dev&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+
+---
+
+# 📈 Activity Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moksh-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Moksh-dev/Moksh-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+---
+
+# 🎯 2026 Mission
+
+
+```
+[████████░░] Build real applications
+
+[███████░░░] Master programming fundamentals
+
+[█████░░░░░] Explore AI / ML
+
+[████░░░░░░] Create bigger projects
+```
+
+
+---
+
+# 🌐 Connect
+
+
+<p align="center">
+
 
 <a href="https://instagram.com/goelmoksh7">
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
 
 </a>
 
-</p>
-
----
-
-## 🔥 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Moksh-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
 
+
 ---
 
-<h3 align="center">
-Thanks for visiting 🚀
-</h3>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Moksh-dev&label=Profile%20Views&color=blue&style=flat"/>
+
+
+<br><br>
+
+
+### "Every project is a step forward 🚀"
+
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
