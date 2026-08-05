@@ -1,230 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Moksh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# Hey there 👋 I'm Moksh
 
-# < Hello, World! 👋 />
+### 🚀 AI • Software Development • Building Cool Stuff
 
-### AI Developer • Backend Builder • Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+Software+That+Matters.;Turning+Ideas+Into+Reality.;Python+%7C+Java+%7C+Flask.;Exploring+Artificial+Intelligence."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Projects+That+Solve+Problems;Python+%7C+Java+Developer;Exploring+AI+%26+Automation;Always+Learning+Something+New" />
 
 <p>
-
-<img src="https://img.shields.io/github/followers/Moksh-dev?style=for-the-badge&logo=github">
-
-<img src="https://img.shields.io/github/stars/Moksh-dev?style=for-the-badge">
-
-<img src="https://komarev.com/ghpvc/?username=Moksh-dev&style=for-the-badge&color=blueviolet">
-
+<img src="https://komarev.com/ghpvc/?username=Moksh-dev&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
 
 ---
 
-# ⚡ System.out.println("About Me");
+# 💫 About Me
 
-```java
-public class Moksh {
+```python
+class Developer:
 
-    String role = "AI & Software Developer";
+    def __init__(self):
+        self.name = "Moksh"
+        self.role = "Aspiring Software & AI Developer"
+        self.languages = ["Python", "Java", "HTML", "CSS", "JavaScript"]
+        self.current_focus = [
+            "Flask Development",
+            "AI",
+            "Automation",
+            "Building Real Projects"
+        ]
 
-    String[] interests = {
-        "Artificial Intelligence",
-        "Backend Development",
-        "Automation",
-        "UI/UX",
-        "System Design"
-    };
-
-    String currentlyBuilding = "BLACKBOX";
-
-    String philosophy = "Build. Fail. Learn. Repeat.";
-}
+    def motto(self):
+        return "Learn → Build → Break → Improve → Repeat 🚀"
 ```
+
+- 💻 Passionate about building software that solves real problems
+- 🧠 Exploring Artificial Intelligence & Automation
+- 🌱 Constantly improving through hands-on projects
+- 🎯 Goal: Become a Full-Stack AI Engineer
 
 ---
 
-# 🧠 Developer Mindset
+# 🛠 Tech Stack
 
-```
-        Dream
-          │
-          ▼
-      Learn Daily
-          │
-          ▼
-     Build Projects
-          │
-          ▼
-      Break Things
-          │
-          ▼
-      Debug Everything
-          │
-          ▼
-      Improve Forever
-```
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,sqlite,git,github,vscode" />
+
+</p>
 
 ---
 
-# ⚙ Tech Stack
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
-
-## Database
-
-<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
-
-</div>
-
----
-
-# 🚀 Featured Work
-
-<table>
-
-<tr>
-
-<td width="50%">
+# 🚀 Featured Projects
 
 ## 🖤 BLACKBOX
 
-Secure Digital Vault
+> A secure personal digital archive built with Flask.
 
-- Authentication
-- Anonymous Uploads
-- Cloudinary Integration
-- SQLite Database
-- Flask Backend
-- Admin Dashboard
+### Features
 
-</td>
+- 🔐 Authentication System
+- 📂 File Uploads
+- 🖼 Image Archive
+- ✏ Edit & Delete
+- 📝 Anonymous Submissions
+- ☁ Cloudinary Storage
+- 🎨 Modern Dashboard UI
 
-<td width="50%">
+**Built With**
+
+`Python`
+`Flask`
+`SQLite`
+`Cloudinary`
+
+---
 
 ## ⚡ One-Line
 
-Minimal Productivity Platform
+A minimal productivity web app focused on speed and simplicity.
 
-- Fast UI
-- Responsive Design
+**Highlights**
+
+- Clean UI
 - Lightweight
-- Vanilla JavaScript
+- Fast interaction
 
-</td>
+**Tech**
 
-</tr>
+`HTML`
+`CSS`
+`JavaScript`
 
-<tr>
-
-<td>
-
-## ✅ To-Do List
-
-Python CRUD Project
-
-</td>
-
-<td>
+---
 
 ## 🔢 Calculator
 
-First Logic Building Project
+My first Python project that introduced me to:
 
-</td>
-
-</tr>
-
-</table>
+- Variables
+- Conditions
+- User Input
+- Logic Building
 
 ---
 
-# 📊 Analytics
+## ✅ To-Do List
+
+A beginner CRUD project where I learned:
+
+- Lists
+- Loops
+- Data Management
+- Problem Solving
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Moksh-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moksh-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh-dev&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=Moksh-dev&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 📈 Current Progress
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Moksh-dev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Moksh-dev/Moksh-dev/output/github-contribution-grid-snake-dark.svg">
-
-</p>
+| Skill | Progress |
+|--------|----------|
+| Python | █████████░ |
+| Java | ███████░░░ |
+| Flask | ███████░░░ |
+| Git & GitHub | ████████░ |
+| AI & ML | █████░░░░░ |
 
 ---
 
-# 🎯 Current Mission
+# 🎯 Goals for 2026
 
-```yaml
-Learning:
-  - AI
-  - Machine Learning
-  - Backend Engineering
-  - Data Structures
-
-Building:
-  - BLACKBOX
-  - Open Source Projects
-
-Goal:
-  Become a World-Class AI Engineer
-```
+- 🚀 Build production-ready applications
+- 🤖 Dive deeper into AI & Machine Learning
+- 🌐 Launch a personal portfolio website
+- 📚 Master Data Structures & Algorithms
+- 💼 Contribute to Open Source
 
 ---
 
-# 🌍 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://instagram.com/goelmoksh7">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://github.com/Moksh-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -233,10 +170,8 @@ Goal:
 
 <div align="center">
 
-## "Code is my canvas. Projects are my portfolio."
+### 💡 "Code. Learn. Improve. Repeat."
 
-⭐ Thanks for stopping by!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,100:0f2027"/>
+⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
