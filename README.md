@@ -16,12 +16,12 @@ I build web applications and Python projects, and explore how machine learning a
 
 Six projects across applications, machine learning, and embedded systems. Select a card to explore its source.
 
-<a href="https://github.com/Moksh-dev/project-asha"><img src="assets/project-graphics/project-asha.svg" width="440" alt="Project ASHA: Awareness platform with volunteer registration and Supabase-backed administration. Stack: TypeScript · Next.js · React · Supabase. Open repository."></a>
-<a href="https://github.com/Moksh-dev/AI-Traffic-Police"><img src="assets/project-graphics/AI-Traffic-Police.svg" width="440" alt="AI Traffic Police: Image and video vehicle detection with per-frame counts and annotated outputs. Stack: Python · Ultralytics YOLO · OpenCV. Open repository."></a>
-<a href="https://github.com/Moksh-dev/concrete-strength-model"><img src="assets/project-graphics/concrete-strength-model.svg" width="440" alt="Concrete Strength: Gradient boosting regression with engineered binder and aggregate features. Stack: Python · pandas · scikit-learn. Open repository."></a>
-<a href="https://github.com/Moksh-dev/AI-Sensor-House"><img src="assets/project-graphics/AI-Sensor-House.svg" width="440" alt="AI Sensor House: ESP32 motion and gas sensing with structured serial output and Wokwi simulation. Stack: C++ · ESP32 · PlatformIO · Wokwi. Open repository."></a>
-<a href="https://github.com/Moksh-dev/blackbox-dynamic"><img src="assets/project-graphics/blackbox-dynamic.svg" width="440" alt="BLACKBOX: A personal image archive with anonymous submissions and an admin dashboard. Stack: Python · Flask · SQLAlchemy · Cloudinary. Open repository."></a>
-<a href="https://github.com/Moksh-dev/the-black-suits"><img src="assets/project-graphics/the-black-suits.svg" width="440" alt="The Black Suits: Legal information interface with simulated guidance and demo matter management. Stack: TypeScript · React · Vite · CSS. Open repository."></a>
+<a href="https://github.com/Moksh-dev/project-asha"><img src="assets/project-graphics/project-asha.svg" width="49%" alt="Project ASHA: Awareness platform with volunteer registration and Supabase-backed administration. Stack: TypeScript · Next.js · React · Supabase. Open repository."></a>
+<a href="https://github.com/Moksh-dev/AI-Traffic-Police"><img src="assets/project-graphics/AI-Traffic-Police.svg" width="49%" alt="AI Traffic Police: Image and video vehicle detection with per-frame counts and annotated outputs. Stack: Python · Ultralytics YOLO · OpenCV. Open repository."></a>
+<a href="https://github.com/Moksh-dev/concrete-strength-model"><img src="assets/project-graphics/concrete-strength-model.svg" width="49%" alt="Concrete Strength: Gradient boosting regression with engineered binder and aggregate features. Stack: Python · pandas · scikit-learn. Open repository."></a>
+<a href="https://github.com/Moksh-dev/AI-Sensor-House"><img src="assets/project-graphics/AI-Sensor-House.svg" width="49%" alt="AI Sensor House: ESP32 motion and gas sensing with structured serial output and Wokwi simulation. Stack: C++ · ESP32 · PlatformIO · Wokwi. Open repository."></a>
+<a href="https://github.com/Moksh-dev/blackbox-dynamic"><img src="assets/project-graphics/blackbox-dynamic.svg" width="49%" alt="BLACKBOX: A personal image archive with anonymous submissions and an admin dashboard. Stack: Python · Flask · SQLAlchemy · Cloudinary. Open repository."></a>
+<a href="https://github.com/Moksh-dev/the-black-suits"><img src="assets/project-graphics/the-black-suits.svg" width="49%" alt="The Black Suits: Legal information interface with simulated guidance and demo matter management. Stack: TypeScript · React · Vite · CSS. Open repository."></a>
 
 [Project ASHA - live website](https://www.project-asha.com/) &nbsp; / &nbsp; [The Black Suits - live prototype](https://theblacksuits.pythonanywhere.com/)
 
@@ -103,3 +103,4 @@ Primary language by project count: Python 4 · TypeScript 2 · C\+\+ 1 · CSS 1 
 <br>
 
 <img src="assets/footer.svg" width="100%" alt="Moksh Goel — Software, intelligence, exploration">
+
