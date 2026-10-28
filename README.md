@@ -1,209 +1,105 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg">
+  <img src="assets/hero.svg" width="100%" alt="Moksh Goel — Software Development / Artificial Intelligence / Machine Learning">
+</picture>
 
-# Hey there 👋 I'm Moksh
+I build web applications and Python projects, and explore how machine learning and sensor data can become useful software. My work ranges from community platforms to computer vision pipelines and small desktop tools.
 
-### 🚀 AI • Software Development • Building Cool Stuff
+## 01 / Engineering focus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Projects+That+Solve+Problems;Python+%7C+Java+Developer;Exploring+AI+%26+Computer+Vision;Always+Learning+Something+New" />
+**Applications** — Thoughtful interfaces, Flask services, and modern React / Next.js development.<br>
+**AI & data** — Vehicle detection, regression models, and practical feature engineering.<br>
+**Exploration** — Python tools, ESP32 sensor experiments, and learning through implementation.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Moksh-dev&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+## 02 / Featured engineering work
 
-</div>
+Six projects across applications, machine learning, and embedded systems. Select a card to explore its source.
 
----
+<a href="https://github.com/Moksh-dev/project-asha"><img src="assets/project-graphics/project-asha.svg" width="440" alt="Project ASHA: Awareness platform with volunteer registration and Supabase-backed administration. Stack: TypeScript · Next.js · React · Supabase. Open repository."></a>
+<a href="https://github.com/Moksh-dev/AI-Traffic-Police"><img src="assets/project-graphics/AI-Traffic-Police.svg" width="440" alt="AI Traffic Police: Image and video vehicle detection with per-frame counts and annotated outputs. Stack: Python · Ultralytics YOLO · OpenCV. Open repository."></a>
+<a href="https://github.com/Moksh-dev/concrete-strength-model"><img src="assets/project-graphics/concrete-strength-model.svg" width="440" alt="Concrete Strength: Gradient boosting regression with engineered binder and aggregate features. Stack: Python · pandas · scikit-learn. Open repository."></a>
+<a href="https://github.com/Moksh-dev/AI-Sensor-House"><img src="assets/project-graphics/AI-Sensor-House.svg" width="440" alt="AI Sensor House: ESP32 motion and gas sensing with structured serial output and Wokwi simulation. Stack: C++ · ESP32 · PlatformIO · Wokwi. Open repository."></a>
+<a href="https://github.com/Moksh-dev/blackbox-dynamic"><img src="assets/project-graphics/blackbox-dynamic.svg" width="440" alt="BLACKBOX: A personal image archive with anonymous submissions and an admin dashboard. Stack: Python · Flask · SQLAlchemy · Cloudinary. Open repository."></a>
+<a href="https://github.com/Moksh-dev/the-black-suits"><img src="assets/project-graphics/the-black-suits.svg" width="440" alt="The Black Suits: Legal information interface with simulated guidance and demo matter management. Stack: TypeScript · React · Vite · CSS. Open repository."></a>
 
-# 💫 About Me
+[Project ASHA — live website](https://www.project-asha.com/) &nbsp; / &nbsp; [The Black Suits — live prototype](https://theblacksuits.pythonanywhere.com/)
 
-```python
-class Developer:
+## 03 / Complete repository index
 
-    def __init__(self):
-        self.name = "Moksh"
-        self.role = "Aspiring Software & AI Developer"
+Every public repository, including the early experiments and this profile. Descriptions for reviewed projects are grounded in their code.
 
-        self.languages = ["Python", "Java"]
-        self.exploring = ["Next.js", "AI", "Computer Vision"]
+<!-- REPOSITORIES:START -->
 
-        self.current_focus = [
-            "Building Real Projects",
-            "Artificial Intelligence",
-            "Automation",
-            "Learning Modern Development"
-        ]
+**10 public repositories** · refreshed automatically from GitHub.
 
-    def motto(self):
-        return "Learn → Build → Break → Improve → Repeat 🚀"
-```
+### AI / Machine learning
 
-- 💻 Passionate about building software that solves real problems
-- 🧠 Exploring Artificial Intelligence, Computer Vision & Automation
-- 🌐 Currently learning and experimenting with Next.js
-- 🌱 Constantly improving through hands-on projects
-- 🎯 Goal: Become a skilled Software & AI Developer
+| Repository | What it does | Technologies |
+| :--- | :--- | :--- |
+| [AI-Traffic-Police](https://github.com/Moksh-dev/AI-Traffic-Police) | Image and video vehicle detection with per-frame counts and annotated outputs\. | Python · Ultralytics YOLO · OpenCV |
+| [concrete-strength-model](https://github.com/Moksh-dev/concrete-strength-model) | Gradient boosting regression with engineered binder and aggregate features\. | Python · pandas · scikit-learn |
 
----
+### Embedded systems
 
-# 🛠 Tech Stack
+| Repository | What it does | Technologies |
+| :--- | :--- | :--- |
+| [AI-Sensor-House](https://github.com/Moksh-dev/AI-Sensor-House) | ESP32 motion and gas sensing with structured serial output and Wokwi simulation\. | C\+\+ · ESP32 · PlatformIO · Wokwi |
 
-<p align="center">
+### Profile / Tooling
 
-<img src="https://skillicons.dev/icons?i=python,java,nextjs,git,github,vscode" />
+| Repository | What it does | Technologies |
+| :--- | :--- | :--- |
+| [Moksh-dev](https://github.com/Moksh-dev/Moksh-dev) | This profile, its original SVG artwork and repository discovery workflow\. | Markdown · SVG · Python · GitHub Actions |
 
-</p>
+### Python / Desktop
 
----
+| Repository | What it does | Technologies |
+| :--- | :--- | :--- |
+| [python-calculator](https://github.com/Moksh-dev/python-calculator) | Tkinter desktop calculator with arithmetic buttons and expression evaluation\. | Python · Tkinter |
+| [python-to-do-list](https://github.com/Moksh-dev/python-to-do-list) | Desktop task manager with priorities, completion tracking and JSON persistence\. | Python · Tkinter · JSON |
 
-# 🚀 Featured Projects
+### Web applications
 
-## 🚦 AI Traffic Police
+| Repository | What it does | Technologies |
+| :--- | :--- | :--- |
+| [blackbox-dynamic](https://github.com/Moksh-dev/blackbox-dynamic) | A personal image archive with anonymous submissions and an admin dashboard\. | Python · Flask · SQLAlchemy · Cloudinary |
+| [one-line](https://github.com/Moksh-dev/one-line) | Anonymous single-sentence submissions with a private moderation interface\. | Python · Flask · SQLite · HTML/CSS |
+| [project-asha](https://github.com/Moksh-dev/project-asha) | Awareness platform with volunteer registration and Supabase-backed administration\. | TypeScript · Next\.js · React · Supabase |
+| [the-black-suits](https://github.com/Moksh-dev/the-black-suits) | Legal information interface with simulated guidance and demo matter management\. | TypeScript · React · Vite · CSS |
 
-> An AI-powered traffic monitoring project focused on using computer vision to analyze vehicles from images and videos.
+<!-- REPOSITORIES:END -->
 
-### Features
+## 04 / Technical toolkit
 
-- 🚗 Vehicle Detection
-- 🔢 Vehicle Counting
-- 🚙 Vehicle Type Classification
-- 🎥 Image & Video Analysis
-- 👁️ Computer Vision-Based Monitoring
-- 📊 Traffic Data Analysis
+| Area | Technologies used in my projects |
+| :--- | :--- |
+| Languages | Python · TypeScript · JavaScript · C++ |
+| Web | Next.js · React · Flask · HTML · CSS · Tailwind CSS |
+| AI / Data | Ultralytics YOLO · OpenCV · scikit-learn · pandas · NumPy |
+| Storage | Supabase · SQLite · SQLAlchemy · Cloudinary |
+| Tools / Hardware | Git · GitHub · Vite · Tkinter · ESP32 · PlatformIO · Wokwi |
 
-**Built With**
+## 05 / GitHub activity
 
-`Python` • `Computer Vision` • `AI/ML`
+<!-- ACTIVITY:START -->
 
----
+**10 public repositories** &nbsp; / &nbsp; **9 projects**
 
-## 🖤 BLACKBOX
+Latest project push: **2026-10-15** (UTC).
 
-> A secure personal digital archive built as a web application.
+Primary language by project count: Python 4 · TypeScript 2 · C\+\+ 1 · CSS 1 · HTML 1.
 
-### Features
+<sub>Source: GitHub repository metadata. One primary language per project; these counts are not a proficiency score. The profile repository is excluded from project activity.</sub>
 
-- 🔐 Authentication System
-- 📂 File Uploads
-- 🖼 Image Archive
-- ✏ Edit & Delete
-- 📝 Anonymous Submissions
-- ☁ Cloud Storage
-- 🎨 Modern Dashboard UI
+<!-- ACTIVITY:END -->
 
-**Built With**
+[Contribution history and recent activity →](https://github.com/Moksh-dev?tab=overview)
 
-`Python`
+## 06 / Connect
 
----
+[GitHub](https://github.com/Moksh-dev) &nbsp; / &nbsp; [Instagram](https://instagram.com/goelmoksh7)
 
-## ⚡ One-Line
+<br>
 
-A minimal productivity web app focused on speed and simplicity.
-
-**Highlights**
-
-- Clean UI
-- Lightweight
-- Fast interaction
-
-**Tech**
-
-`HTML` • `CSS` • `JavaScript`
-
----
-
-## 🔢 Calculator
-
-My first Python project that introduced me to:
-
-- Variables
-- Conditions
-- User Input
-- Logic Building
-- Problem Solving
-
-**Built With**
-
-`Python`
-
----
-
-## ✅ To-Do List
-
-A beginner project where I learned:
-
-- Lists
-- Loops
-- Data Management
-- Conditions
-- Problem Solving
-
-**Built With**
-
-`Python`
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moksh-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Current Focus
-
-| Area | Currently Working On |
-|--------|----------------------|
-| 🐍 Python | Building projects and improving fundamentals |
-| ☕ Java | Strengthening programming concepts |
-| 🌐 Next.js | Learning modern web development |
-| 🤖 AI & ML | Exploring practical AI applications |
-| 👁️ Computer Vision | Vehicle detection and classification |
-| 🔧 Git & GitHub | Managing and documenting projects |
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Build production-ready applications
-- 🤖 Dive deeper into AI & Machine Learning
-- 👁️ Build more Computer Vision projects
-- 🌐 Improve my Next.js skills
-- 📚 Master Data Structures & Algorithms
-- 💻 Write cleaner and better code
-- 🌍 Launch a personal portfolio website
-- 💼 Contribute to Open Source
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://instagram.com/goelmoksh7">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Code. Learn. Build. Improve. Repeat."
-
-⭐ If you like my work, consider giving a star to my repositories.
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="Moksh Goel — Software, intelligence, exploration">
