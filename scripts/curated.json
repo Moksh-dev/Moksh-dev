@@ -1,0 +1,62 @@
+{
+  "project-asha": {
+    "title": "Project ASHA",
+    "category": "Web applications",
+    "description": "Awareness platform with volunteer registration and Supabase-backed administration.",
+    "technologies": "TypeScript · Next.js · React · Supabase"
+  },
+  "AI-Traffic-Police": {
+    "title": "AI Traffic Police",
+    "category": "AI / Machine learning",
+    "description": "Image and video vehicle detection with per-frame counts and annotated outputs.",
+    "technologies": "Python · Ultralytics YOLO · OpenCV"
+  },
+  "concrete-strength-model": {
+    "title": "Concrete Strength",
+    "category": "AI / Machine learning",
+    "description": "Gradient boosting regression with engineered binder and aggregate features.",
+    "technologies": "Python · pandas · scikit-learn"
+  },
+  "AI-Sensor-House": {
+    "title": "AI Sensor House",
+    "category": "Embedded systems",
+    "description": "ESP32 motion and gas sensing with structured serial output and Wokwi simulation.",
+    "technologies": "C++ · ESP32 · PlatformIO · Wokwi"
+  },
+  "blackbox-dynamic": {
+    "title": "BLACKBOX",
+    "category": "Web applications",
+    "description": "A personal image archive with anonymous submissions and an admin dashboard.",
+    "technologies": "Python · Flask · SQLAlchemy · Cloudinary"
+  },
+  "the-black-suits": {
+    "title": "The Black Suits",
+    "category": "Web applications",
+    "description": "Legal information interface with simulated guidance and demo matter management.",
+    "technologies": "TypeScript · React · Vite · CSS"
+  },
+  "one-line": {
+    "title": "One Line",
+    "category": "Web applications",
+    "description": "Anonymous single-sentence submissions with a private moderation interface.",
+    "technologies": "Python · Flask · SQLite · HTML/CSS"
+  },
+  "python-calculator": {
+    "title": "Python Calculator",
+    "category": "Python / Desktop",
+    "description": "Tkinter desktop calculator with arithmetic buttons and expression evaluation.",
+    "technologies": "Python · Tkinter"
+  },
+  "python-to-do-list": {
+    "title": "Python To-Do List",
+    "category": "Python / Desktop",
+    "description": "Desktop task manager with priorities, completion tracking and JSON persistence.",
+    "technologies": "Python · Tkinter · JSON"
+  },
+  "Moksh-dev": {
+    "title": "Profile",
+    "category": "Profile / Tooling",
+    "description": "This profile, its original SVG artwork and repository discovery workflow.",
+    "technologies": "Markdown · SVG · Python · GitHub Actions"
+  }
+}
