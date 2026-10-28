@@ -1,16 +1,16 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg">
-  <img src="assets/hero.svg" width="100%" alt="Moksh Goel — Software Development / Artificial Intelligence / Machine Learning">
+  <img src="assets/hero.svg" width="100%" alt="Moksh Goel - Software Development / Artificial Intelligence / Machine Learning">
 </picture>
 
 I build web applications and Python projects, and explore how machine learning and sensor data can become useful software. My work ranges from community platforms to computer vision pipelines and small desktop tools.
 
 ## 01 / Engineering focus
 
-**Applications** — Thoughtful interfaces, Flask services, and modern React / Next.js development.<br>
-**AI & data** — Vehicle detection, regression models, and practical feature engineering.<br>
-**Exploration** — Python tools, ESP32 sensor experiments, and learning through implementation.
+**Applications** - Thoughtful interfaces, Flask services, and modern React / Next.js development.<br>
+**AI & data** - Vehicle detection, regression models, and practical feature engineering.<br>
+**Exploration** - Python tools, ESP32 sensor experiments, and learning through implementation.
 
 ## 02 / Featured engineering work
 
@@ -23,7 +23,7 @@ Six projects across applications, machine learning, and embedded systems. Select
 <a href="https://github.com/Moksh-dev/blackbox-dynamic"><img src="assets/project-graphics/blackbox-dynamic.svg" width="440" alt="BLACKBOX: A personal image archive with anonymous submissions and an admin dashboard. Stack: Python · Flask · SQLAlchemy · Cloudinary. Open repository."></a>
 <a href="https://github.com/Moksh-dev/the-black-suits"><img src="assets/project-graphics/the-black-suits.svg" width="440" alt="The Black Suits: Legal information interface with simulated guidance and demo matter management. Stack: TypeScript · React · Vite · CSS. Open repository."></a>
 
-[Project ASHA — live website](https://www.project-asha.com/) &nbsp; / &nbsp; [The Black Suits — live prototype](https://theblacksuits.pythonanywhere.com/)
+[Project ASHA - live website](https://www.project-asha.com/) &nbsp; / &nbsp; [The Black Suits - live prototype](https://theblacksuits.pythonanywhere.com/)
 
 ## 03 / Complete repository index
 
