@@ -31,7 +31,7 @@ Every public repository, including the early experiments and this profile. Descr
 
 <!-- REPOSITORIES:START -->
 
-**10 public repositories** · refreshed automatically from GitHub.
+**11 public repositories** · refreshed automatically from GitHub.
 
 ### AI / Machine learning
 
@@ -45,6 +45,12 @@ Every public repository, including the early experiments and this profile. Descr
 | Repository | What it does | Technologies |
 | :--- | :--- | :--- |
 | [AI-Sensor-House](https://github.com/Moksh-dev/AI-Sensor-House) | ESP32 motion and gas sensing with structured serial output and Wokwi simulation\. | C\+\+ · ESP32 · PlatformIO · Wokwi |
+
+### Experiments / Newly discovered
+
+| Repository | What it does | Technologies |
+| :--- | :--- | :--- |
+| [asha-toolkit](https://github.com/Moksh-dev/asha-toolkit) | A toolkit for A\.S\.H\.A\. Volunteers for better awareness campaigns\. | Not reported by GitHub |
 
 ### Profile / Tooling
 
@@ -84,9 +90,9 @@ Every public repository, including the early experiments and this profile. Descr
 
 <!-- ACTIVITY:START -->
 
-**10 public repositories** &nbsp; / &nbsp; **9 projects**
+**11 public repositories** &nbsp; / &nbsp; **10 projects**
 
-Latest project push: **2026-10-15** (UTC).
+Latest project push: **2026-11-04** (UTC).
 
 Primary language by project count: Python 4 · TypeScript 2 · C\+\+ 1 · CSS 1 · HTML 1.
 
