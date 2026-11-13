@@ -1,0 +1,35 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="270" viewBox="0 0 440 270" role="img" aria-labelledby="title">
+<title id="title">Portfolio BECOMING: Interactive storytelling, projects, and orbital visuals.</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1">
+<stop stop-color="#151c26"/>
+<stop offset="1" stop-color="#090d13"/>
+</linearGradient>
+</defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}
+.mono{font-family:Consolas,monospace}
+.orbit{transform-origin:382px 65px;animation:spin 24s linear infinite}
+.star{animation:pulse 4s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="438" height="268" rx="14" fill="url(#bg)" stroke="#2e3b49"/>
+<path d="M25 28h24" stroke="#83dce7" stroke-width="2"/>
+<text x="25" y="60" fill="#9aaabb" font-size="12" letter-spacing="1.5" class="mono">03 / CREATIVE DEVELOPMENT</text>
+<g class="orbit" transform="translate(382 65)" fill="none" stroke="#79dce8" stroke-width="1" opacity=".8">
+<ellipse rx="37" ry="16" transform="rotate(-35)"/>
+<ellipse rx="35" ry="14" transform="rotate(55)" opacity=".5"/>
+<circle r="10" fill="#79dce8" fill-opacity=".15"/>
+<circle r="4" fill="#79dce8"/>
+<circle cx="-28" cy="20" r="3" fill="#a89beb" stroke="none"/>
+<circle cx="23" cy="-24" r="2" fill="#edf1f7" stroke="none"/>
+</g>
+<text x="25" y="119" fill="#edf1f7" font-size="28" font-weight="600">Portfolio — BECOMING</text>
+<text x="25" y="151" fill="#b6c0d0" font-size="16">A personal journey through interactive</text>
+<text x="25" y="173" fill="#b6c0d0" font-size="16">storytelling, projects, and orbital visuals.</text>
+<path d="M25 213h390" stroke="#2a3543"/>
+<text x="25" y="237" fill="#83dce7" font-size="13">Next.js · React · TypeScript · CSS</text>
+</svg>
