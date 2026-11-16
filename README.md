@@ -33,7 +33,7 @@ Every public repository, including the early experiments and this profile. Descr
 
 <!-- REPOSITORIES:START -->
 
-**11 public repositories** · refreshed automatically from GitHub.
+**12 public repositories** · refreshed automatically from GitHub.
 
 ### AI / Machine learning
 
@@ -52,14 +52,14 @@ Every public repository, including the early experiments and this profile. Descr
 
 | Repository | What it does | Technologies |
 | :--- | :--- | :--- |
-| [asha-toolkit](https://github.com/Moksh-dev/asha-toolkit) | A toolkit for A\.S\.H\.A\. Volunteers for better awareness campaigns\. | Not reported by GitHub |
+| [asha-toolkit](https://github.com/Moksh-dev/asha-toolkit) | A toolkit for A\.S\.H\.A\. Volunteers for better awareness campaigns\. | TypeScript |
+| [portfolio](https://github.com/Moksh-dev/portfolio) | My own portfolio | TypeScript |
 
 ### Profile / Tooling
 
 | Repository | What it does | Technologies |
 | :--- | :--- | :--- |
 | [Moksh-dev](https://github.com/Moksh-dev/Moksh-dev) | This profile, its original SVG artwork and repository discovery workflow\. | Markdown · SVG · Python · GitHub Actions |
-| [Portfolio — BECOMING](https://github.com/Moksh-dev/portfolio) | A personal portfolio exploring my journey, projects, and growth through interactive storytelling, orbital visuals, and a thoughtfully crafted digital experience. | Next.js · TypeScript · React · CSS · Framer Motion |
 
 ### Python / Desktop
 
@@ -93,11 +93,11 @@ Every public repository, including the early experiments and this profile. Descr
 
 <!-- ACTIVITY:START -->
 
-**11 public repositories** &nbsp; / &nbsp; **10 projects**
+**12 public repositories** &nbsp; / &nbsp; **11 projects**
 
-Latest project push: **2026-11-04** (UTC).
+Latest project push: **2026-11-13** (UTC).
 
-Primary language by project count: Python 4 · TypeScript 2 · C\+\+ 1 · CSS 1 · HTML 1.
+Primary language by project count: Python 4 · TypeScript 4 · C\+\+ 1 · CSS 1 · HTML 1.
 
 <sub>Source: GitHub repository metadata. One primary language per project; these counts are not a proficiency score. The profile repository is excluded from project activity.</sub>
 
